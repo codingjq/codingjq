@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+📺 This is my repository for projects from my YouTube Channel [@codingJQ](https://youtube.com/@codingJQ).
+
+  Have a look and feel free to send over suggestions. Pull requests welcome. 
+
+🤔 My personal GitHub is [@jqwez](https://github.com/jqwez)
+⚡ My personal website is info.jervas.com. 
+🌱 I’m currently enchanted by the Flet UI Framework.
+🔭 I hope to work on simple games to code and explain.
+
 <!--
 **codingjq/codingjq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
