@@ -8,8 +8,7 @@
 
 ⚡ My personal website is [info.jervas.com](https://info.jervas.com)
 
-🌱 I’m currently enchanted by the Flet UI Framework.
-
+😄 Showcases coming soon at [codingjq.com](https://codingjq.com)
 
 🔭 I hope to work on simple games to code and explain.
 
